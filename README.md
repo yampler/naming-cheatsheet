@@ -3,6 +3,7 @@
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
+    <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
 
